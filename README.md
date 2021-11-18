@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/pglesv" target="blank"><img src="https://img.shields.io/twitter/follow/pglesv?logo=twitter&style=for-the-badge" alt="pglesv" /></a> </p>
 
-- 🔭 I’m currently working on [ManhuntTeamSelector](github.com/PgLESv/Manhunt)
+- 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning nothing
 
 - 📫 How to reach me **pedroginelids@gmail.com**
 
