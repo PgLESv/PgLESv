@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pglesv&label=Profile%20views&color=0e75b6&style=flat" alt="pglesv" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **ENX**
 
 - 🌱 I’m currently learning **TI**
 
