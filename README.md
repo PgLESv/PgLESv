@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pglesv&label=Profile%20views&color=0e75b6&style=flat" alt="pglesv" /> </p>
 
-- 🌱 I’m currently learning **C and SI**
+- 🌱 I’m currently learning **C** and **SI**
 
 - 💬 Ask me about **Anything :p**
 
