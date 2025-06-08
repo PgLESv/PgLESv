@@ -35,9 +35,3 @@
 <img align="right" height="150" src="https://media.tenor.com/WCXHO9M14MkAAAAi/clap-bocchi.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pglesv/pglesv/output/snake.svg" alt="Snake animation" />
-
-###
